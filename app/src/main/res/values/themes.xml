@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SplashScreen.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/colorOrange</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_logo</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.WiproJetpackTest</item>
+    </style>
+
+    <style name="Theme.WiproJetpackTest" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="HomeListFeatures">
+        <State />
+      </entry>
+      <entry key="ProductItemShould">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="beDisplayed()">
+        <State />
+      </entry>
+      <entry key="validateNavigationFromMovieListToMovieDetails()">
+        <State />
+      </entry>
+      <entry key="validateProgressBarVisible()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
