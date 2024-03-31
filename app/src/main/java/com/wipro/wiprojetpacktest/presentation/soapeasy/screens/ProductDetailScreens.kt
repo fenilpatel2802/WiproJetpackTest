@@ -160,8 +160,7 @@ fun ProductDetailScreen(
                             end = 10.dp,
                         ),
                     text = description ?: "",
-                    style = MaterialTheme.typography.bodyLarge,
-                    color = Color.Black
+                    style = MaterialTheme.typography.bodyLarge
                 )
             }
         }
